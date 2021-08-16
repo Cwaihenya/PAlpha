@@ -17,13 +17,13 @@ Ruby version 3.0 .1 Rails 6.1.4
 
 Catalog Design  https://docs.google.com/document/d/1NCj6tume226ktutOxSgp6ewkEeRK2HzTiATgzjKWGMs/edit?usp=sharing
 
-Table definition https://docs.google.com/spreadsheets/d/1x_NSgcKBf_l-gB1Xtgkl9bvkswGrY_vdsbNOL78CzjY/edit#gid=1930504051
+Table definition https://docs.google.com/spreadsheets/d/1x_NSgcKBf_l-gB1Xtgkl9bvkswGrY_vdsbNOL78CzjY/edit?usp=sharing
 
 Screen transition diagram https://app.creately.com/diagram/wgmjcN5fehG/edit
 
 Screen wire frame https://wireframe.cc/ReySLz https://wireframe.cc/Qw4uiI
 
-ERD Flowchart https://docs.google.com/document/d/1tvsqh0_8bceU6Qj4NTbKZEhqipROwr40CPVH10l7ZxU/edit
+ERD Flowchart https://docs.google.com/document/d/1tvsqh0_8bceU6Qj4NTbKZEhqipROwr40CPVH10l7ZxU/edit?usp=sharing
 
 Gems: Devise, Carrierwave,Datetimepicker,cancancan,letter-opener,Omniauth, pry,cocoon,bootstrap_Sass
 
