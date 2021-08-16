@@ -28,7 +28,5 @@ ERD Flowchart https://docs.google.com/document/d/1tvsqh0_8bceU6Qj4NTbKZEhqipROwr
 Gems: Devise, Carrierwave,Datetimepicker,cancancan,letter-opener,Omniauth, pry,cocoon,bootstrap_Sass
 
 README Project Alpha gives you control over your projects and your time
-# alphap
-# alphap
-# PAlpha
+
 # PAlpha
