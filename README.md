@@ -15,7 +15,7 @@ Ruby version 3.0 .1 Rails 6.1.4
     Login Functions
     Create frequency Functions for Tasks
 
-Catalog Design https://docs.google.com/document/d/1NCj6tume226ktutOxSgp6ewkEeRK2HzTiATgzjKWGMs/edit
+Catalog Design  https://docs.google.com/document/d/1NCj6tume226ktutOxSgp6ewkEeRK2HzTiATgzjKWGMs/edit?usp=sharing
 
 Table definition https://docs.google.com/spreadsheets/d/1x_NSgcKBf_l-gB1Xtgkl9bvkswGrY_vdsbNOL78CzjY/edit#gid=1930504051
 
