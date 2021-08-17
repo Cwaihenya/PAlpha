@@ -30,7 +30,7 @@ Screen wire frame https://wireframe.cc/ReySLz https://wireframe.cc/Qw4uiI
 
 ERD Flowchart https://docs.google.com/document/d/1tvsqh0_8bceU6Qj4NTbKZEhqipROwr40CPVH10l7ZxU/edit?usp=sharing
 
-Gems: Devise, Carrierwave,Datetimepicker,cancancan,letter-opener,Omniauth, pry,cocoon,bootstrap_Sass
+Gems: Devise, Carrierwave,Datetimepicker,cancancan,letter-opener,pry,cocoon,bootstrap_Sass
 
 README Project Alpha gives you control over your projects and your time
 
