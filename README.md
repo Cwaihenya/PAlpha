@@ -14,12 +14,13 @@ Ruby version 3.0 .1 Rails 6.1.4
     Projects list review funtion
     Login Functions
     Create frequency Functions for Tasks
+    Create status of tasks
 
 Catalog Design https://docs.google.com/document/d/1NCj6tume226ktutOxSgp6ewkEeRK2HzTiATgzjKWGMs/edit
 
  Table definition https://docs.google.com/spreadsheets/d/1x_NSgcKBf_l-gB1Xtgkl9bvkswGrY_vdsbNOL78CzjY/edit#gid=1930504051
 
-    Screen transition diagram https://app.creately.com/diagram/wgmjcN5fehG/edit
+    Screen transition diagram https://docs.google.com/document/d/19PTI2N6g7vyXBPrI68mFFwZSwzVNn2-9_TwAcTAaZoI/edit
 
     Screen wire frame https://wireframe.cc/ReySLz https://wireframe.cc/Qw4uiI
 
