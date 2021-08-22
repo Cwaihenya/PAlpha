@@ -2,9 +2,9 @@
 
 This simple web application is developed with the purpose of helping people keep track of their projects and the time spent on the tasks. The users can keep track of assigned projects and what they hop to accomplish form of tasks. The users can create, delete and update tasks.
 
-
-
-Ruby version 3.0 .1 Rails 6.1.4
+Development language
+  Ruby version 3.0 .1 
+  Rails 6.1.4
 
   Functions
 
@@ -20,7 +20,7 @@ Employment term technologies
  Devise
  Message fucntion
  
- Technology outside the curriculum
+Technology outside the curriculum
  
  
 
@@ -46,6 +46,16 @@ ERD Flowchart
 https://docs.google.com/document/d/1tvsqh0_8bceU6Qj4NTbKZEhqipROwr40CPVH10l7ZxU/edit?usp=sharing
 
 Gems: Devise, Carrierwave,Datetimepicker,pry,bootstrap_Sass
+
+Excecution procedure
+$rails new myproject -d postgresql
+$rails db:create
+$rails db:migrate
+$rails g scaffold project
+$rails g scaffold task
+$bundle install
+$rails g scaffold user
+$rails s
 
 README Project Alpha gives you control over your projects and your time
 
