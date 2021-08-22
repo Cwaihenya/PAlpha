@@ -15,6 +15,8 @@ Ruby version 3.0 .1 Rails 6.1.4
     Login Functions
     Create frequency Functions for Tasks
     Create status of tasks
+    
+Employment term technologies
 
 Catalog Design  https://docs.google.com/document/d/1NCj6tume226ktutOxSgp6ewkEeRK2HzTiATgzjKWGMs/edit?usp=sharing
 
@@ -27,6 +29,7 @@ Screen transition diagram https://docs.google.com/document/d/19PTI2N6g7vyXBPrI68
 
 
 Screen wire frame https://wireframe.cc/ReySLz https://wireframe.cc/Qw4uiI https://wireframe.cc/mMV4Ib https://wireframe.cc/368kTr
+
 
 ERD Flowchart https://docs.google.com/document/d/1tvsqh0_8bceU6Qj4NTbKZEhqipROwr40CPVH10l7ZxU/edit?usp=sharing
 
