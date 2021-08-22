@@ -17,23 +17,35 @@ Ruby version 3.0 .1 Rails 6.1.4
     Create status of tasks
     
 Employment term technologies
+ Devise
+ Message fucntion
+ 
+ Technology outside the curriculum
+ 
+ 
 
-Catalog Design  https://docs.google.com/document/d/1NCj6tume226ktutOxSgp6ewkEeRK2HzTiATgzjKWGMs/edit?usp=sharing
+Catalog Design  
+https://docs.google.com/document/d/1NCj6tume226ktutOxSgp6ewkEeRK2HzTiATgzjKWGMs/edit?usp=sharing
 
-Table definition https://docs.google.com/spreadsheets/d/1x_NSgcKBf_l-gB1Xtgkl9bvkswGrY_vdsbNOL78CzjY/edit?usp=sharing
-
-
-Screen transition diagram https://docs.google.com/document/d/19PTI2N6g7vyXBPrI68mFFwZSwzVNn2-9_TwAcTAaZoI/edit
-
-Screen transition diagram https://docs.google.com/document/d/19PTI2N6g7vyXBPrI68mFFwZSwzVNn2-9_TwAcTAaZoI/edit
+Table definition 
+https://docs.google.com/spreadsheets/d/1x_NSgcKBf_l-gB1Xtgkl9bvkswGrY_vdsbNOL78CzjY/edit?usp=sharing
 
 
-Screen wire frame https://wireframe.cc/ReySLz https://wireframe.cc/Qw4uiI https://wireframe.cc/mMV4Ib https://wireframe.cc/368kTr
+Screen transition diagram 
+https://docs.google.com/document/d/19PTI2N6g7vyXBPrI68mFFwZSwzVNn2-9_TwAcTAaZoI/edit
+
+Screen transition diagram 
+https://docs.google.com/document/d/19PTI2N6g7vyXBPrI68mFFwZSwzVNn2-9_TwAcTAaZoI/edit
 
 
-ERD Flowchart https://docs.google.com/document/d/1tvsqh0_8bceU6Qj4NTbKZEhqipROwr40CPVH10l7ZxU/edit?usp=sharing
+Screen wire frame 
+https://wireframe.cc/ReySLz https://wireframe.cc/Qw4uiI https://wireframe.cc/mMV4Ib https://wireframe.cc/368kTr
 
-Gems: Devise, Carrierwave,Datetimepicker,cancancan,letter-opener,pry,cocoon,bootstrap_Sass
+
+ERD Flowchart 
+https://docs.google.com/document/d/1tvsqh0_8bceU6Qj4NTbKZEhqipROwr40CPVH10l7ZxU/edit?usp=sharing
+
+Gems: Devise, Carrierwave,Datetimepicker,pry,bootstrap_Sass
 
 README Project Alpha gives you control over your projects and your time
 
