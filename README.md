@@ -35,7 +35,8 @@ https://docs.google.com/spreadsheets/d/1x_NSgcKBf_l-gB1Xtgkl9bvkswGrY_vdsbNOL78C
 https://docs.google.com/document/d/19PTI2N6g7vyXBPrI68mFFwZSwzVNn2-9_TwAcTAaZoI/edit
 
 # Screen transition diagram 
-https://docs.google.com/document/d/19PTI2N6g7vyXBPrI68mFFwZSwzVNn2-9_TwAcTAaZoI/edit
+https://docs.google.com/document/d/1nnPFDbicdoEH9V1yljMuEGqxXlZP2a5YMLqGnqvOLNQ/edit?usp=sharing
+https://app.diagrams.net/#HCwaihenya%2FPAlpha%2Fmain%2FUntitled%20Diagram.drawio
 
 
 # Screen wire frame 
