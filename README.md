@@ -18,7 +18,7 @@ Functions
     
 # Employment term technologies
  - Devise
- - Message fucntion
+ - Message function
  
 # Technology outside the curriculum
  - Rails Admin
