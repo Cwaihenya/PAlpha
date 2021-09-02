@@ -21,7 +21,7 @@ Functions
  - Message fucntion
  
 # Technology outside the curriculum
- 
+ -Rails Admin
  
 
 # Catalog Design  
