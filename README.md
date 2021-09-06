@@ -49,14 +49,10 @@ https://docs.google.com/document/d/1tvsqh0_8bceU6Qj4NTbKZEhqipROwr40CPVH10l7ZxU/
 # Gems: Devise, Carrierwave,Datetimepicker,pry,bootstrap_Sass
 
 # Excecution procedure
-$rails new myproject -d postgresql
-$rails db:create
-$rails db:migrate
-$rails g scaffold project
-$rails g scaffold task
-$bundle install
-$rails g scaffold user
-$rails s
+- bundle install
+- rails db:create
+- rails db:migrate
+- rails s
 
 README Project Alpha gives you control over your projects and your time
 
