@@ -49,6 +49,7 @@ https://docs.google.com/document/d/1tvsqh0_8bceU6Qj4NTbKZEhqipROwr40CPVH10l7ZxU/
 # Gems: Devise, Carrierwave,Datetimepicker,pry,bootstrap_Sass
 
 # Excecution procedure
+- got clone git@github.com:Cwaihenya/PAlpha.git
 - bundle install
 - rails db:create
 - rails db:migrate
