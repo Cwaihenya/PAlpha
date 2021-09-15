@@ -25,7 +25,7 @@ Functions
  
 
 # Catalog Design  
-https://docs.google.com/document/d/1NCj6tume226ktutOxSgp6ewkEeRK2HzTiATgzjKWGMs/edit?usp=sharing
+https://docs.google.com/document/d/1Obm8W5UZs-W5K9Q1AzRukn5BclPgcIuyKK_Q7RsJg_M/edit?usp=sharing
 
 # Table definition 
 https://docs.google.com/spreadsheets/d/1x_NSgcKBf_l-gB1Xtgkl9bvkswGrY_vdsbNOL78CzjY/edit?usp=sharing
